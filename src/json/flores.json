@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "category":"flores",
+        "name":"Ramo Variado 1",
+        "price":"35",
+        "img":""
+        }, 
+        {
+            "id":2,
+            "category":"flores",
+            "name":"Ramo variado 2",
+            "price":"35",
+            "img":""
+        }, 
+        {
+            "id":3,
+            "category":"flores",
+            "name":"Ramo variado 3",
+            "price":"40/50/60",
+            "img":""
+        }, 
+        {
+            "id":4,
+            "category":"flores",
+            "name":"Ramo variado 4",
+            "price":"40/50/60",
+            "img":""
+        }, 
+        {
+            "id":5,
+            "category":"flores",
+            "name":"Ramo variado 5",
+            "price":"40/50/60",
+            "img":""
+        },
+        {
+            "id":6,
+            "category":"flores",
+            "name":"Ramo variado 6",
+            "price":"40/50/60",
+            "img":""
+        },{
+            "id":7,
+            "category":"flores",
+            "name":"Ramo variado 7",
+            "price":"40/50/60",
+            "img":""
+        },{
+            "id":8,
+            "category":"flores",
+            "name":"Ramo variado 8",
+            "price":"40/50/60",
+            "img":""
+        }
+]

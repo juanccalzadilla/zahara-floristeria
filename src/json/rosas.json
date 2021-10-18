@@ -1,0 +1,55 @@
+ [
+        {
+        "id":1,
+        "category":"rosas",
+        "name":"24 Rosas Rojas",
+        "price":"80",
+        "img":""
+        }, 
+        {
+            "id":2,
+            "category":"rosas",
+            "name":"24 Rosas Blancas",
+            "price":"80",
+            "img":""
+        }, 
+        {
+            "id":3,
+            "category":"rosas",
+            "name":"12 Rosas Rojas",
+            "price":"50",
+            "img":""
+        }, 
+        {
+            "id":4,
+            "category":"rosas",
+            "name":"12 Rosas Azules",
+            "price":"60",
+            "img":""
+        },
+        
+        {
+            "id":5,
+            "category":"rosas",
+            "name":"Detalle de 3 rosas",
+            "price":"23",
+            "img":""
+        }, 
+        {
+            "id":6,
+            "category":"rosas",
+            "name":"Detalle 1 rosa",
+            "price":"17",
+            "img":""
+        }
+        , 
+        {
+            "id":7,
+            "category":"rosas",
+            "name":"Liliums y rosas",
+            "price":"80",
+            "img":"50"
+        }
+            
+
+]
