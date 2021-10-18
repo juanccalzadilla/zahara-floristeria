@@ -1,0 +1,25 @@
+
+
+.desc{
+    width: 100%!important;
+}
+.img{
+    width: 50%!important;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+
+    .desc{
+        width: 100%!important;
+        flex: 1;
+    }
+    .img{
+        width: 100%!important;
+    }
+
+    .clf{
+        flex-direction: column;
+    }
+}

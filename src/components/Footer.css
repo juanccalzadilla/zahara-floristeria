@@ -1,0 +1,14 @@
+.list{
+    list-style: none;
+
+}
+
+.list li{
+    color: white;
+    line-height:4rem;
+}
+
+.list li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
