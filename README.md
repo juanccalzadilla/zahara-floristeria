@@ -12,6 +12,8 @@ La aplicacion está online se pude mirar <a href="https://floristzahara.netlify.
 
 <hr/>
 Comandos
+
+
 ```
 npm start //para ejecutar el proyecto
 ```
