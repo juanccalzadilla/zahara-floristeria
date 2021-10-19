@@ -8,6 +8,9 @@ estara comunicada con una MongoDB,tendra un panel de control en el cual podra
 actualizar el contenido de la misma.
 Todas las dependencias utilizadas estaran en el package.json. 
 
+La aplicacion está online se pude mirar <a href="https://floristzahara.netlify.app/">Dado click aquí</a>
+
+<hr/>
 Comandos
 ```
 npm start //para ejecutar el proyecto
