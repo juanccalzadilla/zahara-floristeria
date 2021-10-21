@@ -1,7 +1,33 @@
 .imgh{
 transition: all 0.3s ease-in-out;
+border-radius: 20px;
+filter: brightness(50%);
 }
 
 .imgh:hover{
     transform:scale(0.9);
+    filter: brightness(70%);
+}
+
+.lkn{
+    position: relative;
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.txtd{
+    position: absolute;
+    top: 100px;
+    font-family: 'PT Sans', sans-serif;
+    left: 100px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    padding: 15px 20px;
+    transition: all 0.15s linear;
 }

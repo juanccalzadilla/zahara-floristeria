@@ -5,7 +5,7 @@ import {
     Route,Redirect
 } from "react-router-dom";
 import { Footer } from './components/helperComponents/Footer'
-import { Header } from './components/header'
+import { Header } from './components/Header'
 import { NavBar } from './components/helperComponents/NavBar'
 import { HomeScreen } from './components/Screens/HomeScreen'
 import { Productos } from './components/Screens/Productos'
@@ -16,7 +16,6 @@ export const App = () => {
     return (
         <Router>
             <Header />
-            <hr />
             <NavBar />
             <Switch>
                 <Route exact path="/" component={HomeScreen}/>

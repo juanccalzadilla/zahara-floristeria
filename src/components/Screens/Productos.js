@@ -6,7 +6,7 @@ export const Productos = () => {
 
     return (
         <>
-        <h1 className="text-center bg text p-4">Perfect Store - Products</h1>
+        <h1 className="text-center bg text p-4">Productos</h1>
         <div className="container-fluid d-flex flex-wrap">
             <div className="row row-cols-1 row-cols-md-3 row-cols-lg-5
             justify-content-center">
