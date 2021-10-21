@@ -1,13 +1,13 @@
 import hero2 from '../assets/hero2.jpg'
-import './Categoria.css'
+import './css/Categoria.css'
 import React from 'react'
 import { useParams } from 'react-router'
-const rosasData = require('../json/rosas')
+const products = require('../json/products')
 export const Categoria = () => {
 
     const { category } = useParams();
 
-    const data = rosasData.filter(data => data.category === category)
+    const data = products.filter(data => data.category === category)
     console.log(data);
     return (
         <>

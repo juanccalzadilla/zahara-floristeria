@@ -4,9 +4,9 @@ import {
     Switch,
     Route,Redirect
 } from "react-router-dom";
-import { Footer } from './components/Footer'
+import { Footer } from './components/helperComponents/Footer'
 import { Header } from './components/header'
-import { NavBar } from './components/NavBar'
+import { NavBar } from './components/helperComponents/NavBar'
 import { HomeScreen } from './components/Screens/HomeScreen'
 import { Productos } from './components/Screens/Productos'
 import { Galeria } from './components/Screens/Galeria'

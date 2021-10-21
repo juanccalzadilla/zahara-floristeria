@@ -1,7 +1,7 @@
 import React from 'react'
-import { AboutUs } from '../AboutUs'
-import { Carousel } from '../Carousel'
-import { Hero } from '../Hero'
+import { AboutUs } from '../helperComponents/AboutUs'
+import { Carousel } from '../helperComponents/Carousel'
+import { Hero } from '../helperComponents/Hero'
 import { Products } from '../Products'
 
 export const HomeScreen = () => {

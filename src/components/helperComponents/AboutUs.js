@@ -1,5 +1,5 @@
 import React from 'react'
-import './AboutUs.css'
+import '../css/AboutUs.css'
 export const AboutUs = () => {
     return (
         <div className="d-flex clf">
