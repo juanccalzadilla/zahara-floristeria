@@ -20,7 +20,7 @@ export const Categoria = () => {
                         <div className="card-container d-flex txt flex-column m-4" key={data.id} >
 
                            <div className="my-card">
-                               <img className="img-fluid" src={hero2}></img>
+                               <img className="img-fluid" alt={data.name} src={hero2}></img>
                                <h1 className="name">{data.name}</h1>
                                <p className="price"> €{data.price}</p>
                            </div>
