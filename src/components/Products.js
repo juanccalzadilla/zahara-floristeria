@@ -5,7 +5,7 @@ import './css/Products.css'
 export const Products = () => {
     return (
         <div className="container">
-            <h1>Aqui podrás encontrar...</h1>
+            <h1>Aqui podrás encontrar..</h1>
             <div className="row mx-auto w-100">
                 <Link to='/categoria/rosas' className="col-md-4 mx-auto btn lkn">
                     <img src="https://tinyurl.com/roses00001" className="img-fluid imgh animate__animated animate__fadeIn " width="400" height="400" alt=""></img>
