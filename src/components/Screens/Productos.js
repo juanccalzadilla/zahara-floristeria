@@ -1,4 +1,5 @@
 import React from 'react'
+import 'animate.css'
 import hero2 from '../../assets/hero2.jpg'
 const products = require('../../json/products.json')
 
@@ -12,7 +13,7 @@ export const Productos = () => {
             justify-content-center">
                 {products.map(data => (
                     
-                    <div className="card-container d-flex txt flex-column m-4" key={data.id} >
+                    <div className="card-container d-flex txt flex-column m-4 animate__animated animate__zoomIn" key={data.id} >
                          <div className="my-card">
                                <img className="img-fluid" alt={data.name} src={hero2}></img>
                                <h1 className="name">{data.name}</h1>
