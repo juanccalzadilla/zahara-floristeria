@@ -12,13 +12,14 @@ import { Productos } from './components/Screens/Productos'
 import { Galeria } from './components/Screens/Galeria'
 import { Contacto } from './components/Screens/Contacto'
 import { Categoria } from './components/Categoria';
-// import { Header } from './components/Header';
+import { Header } from './components/Header';
+
 
 
 export const App = () => {
     return (
         <Router>
-            {/* <Header/> */}
+            <Header/>
             <NavBar />
             <Switch>
                 <Route exact path="/" component={HomeScreen}/>
